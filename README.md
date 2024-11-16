@@ -1,8 +1,13 @@
 # Trabalho1 AED 2023-2024
 Este é o código-fonte para o primeiro projeto de AED 2023-2024.
 
+
 ## Nota Atribuída
-15.98
+15.98/20
+
+## Contribuidores
+- [GabrielMSilva04](https://github.com/GabrielMSilva04)
+- [henriqueft04](https://github.com/henriqueft04)
 
 ## Ficheiros
 
